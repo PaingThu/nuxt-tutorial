@@ -1,6 +1,5 @@
 <template>
-    <div>
-        Index Page
-        <Alert />
+    <div class="mainPage">
+        Main Page
     </div>
 </template>
